@@ -1,0 +1,13 @@
+{
+	"user": "uzi126",
+	"repo": "MenuStore",
+	"tag": "0.0.1",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	],
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
